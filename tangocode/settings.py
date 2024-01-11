@@ -30,7 +30,7 @@ SECRET_KEY = os.environ.get('SECRET_KEY')
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['8000-graceghb-djangotango-p430fc0irfs.ws-eu107.gitpod.io', 'tangocode.herokuapp.com', 'localhost']
+ALLOWED_HOSTS = ['8000-graceghb-djangotango-p430fc0irfs.ws-eu107.gitpod.io', 'tangocode-770477708c1c.herokuapp.compip3 ', 'localhost']
 
 
 # Application definition
